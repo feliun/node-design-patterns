@@ -1,0 +1,12 @@
+{
+  "name": "node-design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
+  "license": "ISC",
+  "homepage": "https://github.com/feliun/node-design-patterns#readme",
+  "dependencies": {
+    "ramda": "^0.24.0"
+  }
+}
