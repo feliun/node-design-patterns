@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "command": "node command"
+    "command": "node command",
+    "reactor": "node reactor"
   },
   "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
   "license": "ISC",
