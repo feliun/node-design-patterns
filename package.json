@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "command": "node command",
-    "reactor": "node reactor",
-    "observer": "node observer",
-    "streams": "node streams",
-    "factory": "node factory",
-    "proxy": "node proxy"
+    "command": "node patterns/command",
+    "reactor": "node patterns/reactor",
+    "observer": "node patterns/observer",
+    "streams": "node patterns/streams",
+    "factory": "node patterns/factory",
+    "proxy": "node patterns/proxy"
   },
   "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
   "license": "ISC",
