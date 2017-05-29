@@ -12,12 +12,14 @@
     "proxy": "node patterns/proxy",
     "adapter": "node patterns/adapter",
     "strategy": "node patterns/strategy",
-    "state": "node patterns/state"
+    "state": "node patterns/state",
+    "middleware": "node patterns/middleware"
   },
   "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
   "license": "ISC",
   "homepage": "https://github.com/feliun/node-design-patterns#readme",
   "dependencies": {
+    "async": "^2.4.1",
     "ramda": "^0.24.0"
   }
 }
