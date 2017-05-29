@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "command": "node command",
-    "reactor": "node reactor"
+    "reactor": "node reactor",
+    "observer": "node observer"
   },
   "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
   "license": "ISC",
