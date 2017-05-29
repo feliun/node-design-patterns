@@ -8,7 +8,8 @@
     "reactor": "node reactor",
     "observer": "node observer",
     "streams": "node streams",
-    "factory": "node factory"
+    "factory": "node factory",
+    "proxy": "node proxy"
   },
   "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
   "license": "ISC",
