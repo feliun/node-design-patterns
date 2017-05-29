@@ -6,7 +6,8 @@
   "scripts": {
     "command": "node command",
     "reactor": "node reactor",
-    "observer": "node observer"
+    "observer": "node observer",
+    "streams": "node streams"
   },
   "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
   "license": "ISC",
