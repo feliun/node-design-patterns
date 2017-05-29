@@ -11,7 +11,8 @@
     "factory": "node patterns/factory",
     "proxy": "node patterns/proxy",
     "adapter": "node patterns/adapter",
-    "strategy": "node patterns/strategy"
+    "strategy": "node patterns/strategy",
+    "state": "node patterns/state"
   },
   "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
   "license": "ISC",
