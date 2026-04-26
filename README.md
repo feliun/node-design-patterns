@@ -11,16 +11,12 @@
   | [adapter](./patterns/adapter) | Wrap an incompatible interface so your code can consume it. | `npm run adapter` |
   | [command](./patterns/command) | Encapsulate a request as an object so it can be queued, logged, or undone. | `npm run command` |
   | [factory](./patterns/factory) | Hide object creation behind a function that decides what to instantiate. | `npm run factory` |
-  | [middleware](./patterns/middleware) | Chain composable steps where each one can transform the input or short-circuit. | `npm run
-  middleware` |
-  | [observer](./patterns/observer) | Notify many consumers when something changes, without coupling them to the source. | `npm run
-  observer` |
-  | [proxy](./patterns/proxy) | Intercept access to an object to add caching, logging, lazy loading, or access control. | `npm run proxy`
-   |
+  | [middleware](./patterns/middleware) | Chain composable steps where each one can transform the input or short-circuit. | `npm run middleware` |
+  | [observer](./patterns/observer) | Notify many consumers when something changes, without coupling them to the source. | `npm run observer` |
+  | [proxy](./patterns/proxy) | Intercept access to an object to add caching, logging, lazy loading, or access control. | `npm run proxy` |
   | [reactor](./patterns/reactor) | Demultiplex many I/O events onto a single thread — the heart of Node itself. | `npm run reactor` |
   | [state](./patterns/state) | Let an object change its behavior cleanly as its internal state changes. | `npm run state` |
-  | [strategy](./patterns/strategy) | Pick the right algorithm at runtime by swapping interchangeable implementations. | `npm run
-  strategy` |
+  | [strategy](./patterns/strategy) | Pick the right algorithm at runtime by swapping interchangeable implementations. | `npm run strategy` |
   | [streams](./patterns/streams) | Process data piece by piece instead of buffering it all in memory. | `npm run streams` |
 
   ## Quick start
@@ -33,7 +29,7 @@
 
   Each folder is self-contained. Read the source, run the example, change it, break it, run it again. That's the whole point.
 
-  **Why this still matters**
+  Why this still matters
 
   Patterns aren't trivia — they're vocabulary. Once you can name a problem ("I need backpressure here", "this wants an observer, not a
   callback"), you can reach for the right shape instead of reinventing it.
@@ -43,7 +39,7 @@
 
   The code is from 2017. The patterns are older than that. They still hold.
 
-  **What's next**
+  What's next
 
   A Claude Code plugin that turns each pattern into a skill an agent invokes when the situation calls for it — so the next time you ask
   for "a job queue with backpressure" or "a pluggable validation pipeline", the right shape comes for free.
